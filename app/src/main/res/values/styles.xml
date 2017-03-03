@@ -1,0 +1,14 @@
+<resources>
+    <style name="Anim_fade" parent="android:Theme.NoTitleBar" type="text/css">
+        <item name="android:windowAnimationStyle">@style/fade</item>
+        <item name="android:windowFullscreen">?android:windowNoTitle</item>
+    </style>
+
+    <style name="fade" parent="@android:style/Animation.Activity" type="text/css">
+        <item name="android:activityOpenEnterAnimation">@anim/in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/out_to_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/in_from_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/out_to_right</item>
+    </style>
+
+</resources>

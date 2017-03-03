@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CortexDecoderLibrary-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/M100Demo/CortexDecoderLibrary/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/M100Demo/CortexDecoderLibrary/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg">#070803</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_menu_item_bg_normal">#BCBABA</color>
+    <color name="main_menu_item_bg_press">#A3A1A1</color>
+    <color name="main_menu_item_bg_stroke">#8B8A8A</color>
+    <color name="pad_padding_color">#B7A8A8</color>
+    <color name="btn_stroke_enable_false_color">#eaeaeb</color>
+    <color name="btn_stroke_enable_true_color">#c9c9ca</color>
+    <color name="menu_color_press">#D1CAC7</color>
+    <color name="btn_enable_false_bg_color">#f7f7f8</color>
+    <color name="btn_normal_bg_color">#f5f5f5</color>
+    <color name="possible_result_points">#FFFF00</color> 
+    <color name="product_list_bg">#393A35</color>
+    <color name="mem_list_item_color_normal">#2E2F2B</color>
+    <color name="text_black_color">#383838</color>
+    <color name="gray_color2">#ccccce</color>
+    <color name="item_normal">#00000000</color>
+    <color name="table_line_color">#e6e6e9</color>
+    <color name="gray">#666666</color>
+    <color name="actionbar_opacity">#DD000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_border">#ffafed44</color>
+    <color name="cross_hairs">#ff80d25b</color>
+
+    <color name="stroke_color">#0482C6</color>
+    >
+</resources>

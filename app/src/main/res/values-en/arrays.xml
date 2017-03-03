@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="resolution_entries">
+        <item>1920 x 1080</item>
+        <item>1280 x 720</item>
+        <item>640 x 480</item>
+        <item>352 x 288</item>
+    </string-array>
+    <string-array name="resolution_values">
+        <item>1920 x 1080</item>
+        <item>1280 x 720</item>
+        <item>640 x 480</item>
+        <item>352 x 288</item>
+    </string-array>
+    <string-array name="illumination_entries">
+        <item>Auto</item>
+        <item>Always On</item>
+        <item>Always Off</item>
+    </string-array>
+    <string-array name="illumination_values">
+        <item>Auto</item>
+        <item>Always On</item>
+        <item>Always Off</item>
+    </string-array>
+    <string-array name="debug_level_entries">
+        <item>Off</item>
+        <item>On</item>
+        <item>Verbose</item>
+    </string-array>
+    <string-array name="debug_level_values">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+    
+</resources>
